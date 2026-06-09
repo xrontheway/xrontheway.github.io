@@ -1,4 +1,27 @@
+# XRWay’26 GitHub Pages Website
 
+This folder is a complete static GitHub Pages package for **The 1st International Workshop on XR on the Way (XRWay’26): XR for Walking, Driving, and Everyday Mobility**.
+
+## Quick upload for `xrontheway.github.io`
+
+1. Make sure the repository is named **`xrontheway.github.io`** under the `xrontheway` account.
+2. Upload **all files and folders in this package** to the root of the repository.
+3. In GitHub, open **Settings → Pages**.
+4. Set **Source** to `Deploy from a branch`, choose `main`, and choose `/ (root)`.
+5. Wait for GitHub Pages to publish the site at `https://xrontheway.github.io/`.
+
+No build system is required. The site is plain HTML/CSS/JavaScript and includes `.nojekyll` so GitHub serves the files exactly as uploaded.
+
+The repository root should look like this:
+
+```text
+xrontheway.github.io/
+  index.html
+  assets/
+  README.md
+  404.html
+  .nojekyll
+```
 
 ## Replace images
 
@@ -41,7 +64,7 @@ Current organizer photo filenames:
 - Preliminary full-day program
 - Organizer cards with square photos, short bios, and homepage links
 - Contact email: `xrontheway@gmail.com`
-- CFP as a Markdown file in `assets/docs/CFP.md`
 - Calendar file for the tentative October 5–6 workshop date window in `assets/calendar/xrway26.ics`
+- PAIR-HCI Center support block linking to `https://www.pair-hci.com/`
 
 Program Committee Members are intentionally not included.

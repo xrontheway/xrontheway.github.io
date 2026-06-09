@@ -1,23 +1,24 @@
-.github/workflows/pages.yml
-.gitignore
-.nojekyll
-404.html
-MANIFEST.txt
-README.md
-assets/calendar/xrway26.ics
-assets/css/styles.css
-assets/docs/CFP.md
-assets/images/favicon.svg
-assets/images/og-image.jpg
-assets/images/organizers/ahmed-elsharkawy.jpg
-assets/images/organizers/ammar-al-taie.jpg
-assets/images/organizers/dohyeon-yeo.jpg
-assets/images/organizers/gwangbin-kim.jpg
-assets/images/organizers/hiroshi-yasuda.jpg
-assets/images/organizers/ian-oakley.jpg
-assets/images/organizers/joseph-delpreto.jpg
-assets/images/organizers/juwon-um.jpg
-assets/images/organizers/seungjun-kim.jpg
-assets/js/main.js
-index.html
-robots.txt
+XRWay’26 GitHub Pages package manifest
+
+Files included:
+- .github/workflows/pages.yml
+- .gitignore
+- .nojekyll
+- 404.html
+- README.md
+- assets/calendar/xrway26.ics
+- assets/css/styles.css
+- assets/images/favicon.svg
+- assets/images/og-image.jpg
+- assets/images/organizers/ahmed-elsharkawy.jpg
+- assets/images/organizers/ammar-al-taie.jpg
+- assets/images/organizers/dohyeon-yeo.jpg
+- assets/images/organizers/gwangbin-kim.jpg
+- assets/images/organizers/hiroshi-yasuda.jpg
+- assets/images/organizers/ian-oakley.jpg
+- assets/images/organizers/joseph-delpreto.jpg
+- assets/images/organizers/juwon-um.jpg
+- assets/images/organizers/seungjun-kim.jpg
+- assets/js/main.js
+- index.html
+- robots.txt
