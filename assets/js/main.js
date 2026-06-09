@@ -27,30 +27,4 @@ document.querySelectorAll('a[href="#top"]').forEach((link) => {
   });
 });
 
-const calendarLink = document.querySelector('[data-calendar-download]');
 
-if (calendarLink) {
-  calendarLink.addEventListener('click', async (event) => {
-    event.preventDefault();
-
-    try {
-      const response = await fetch(calendarLink.getAttribute('href'), { cache: 'no-store' });
-      if (!response.ok) throw new Error(`Calendar download failed: ${response.status}`);
-
-      const calendarText = await response.text();
-      const blob = new Blob([calendarText], { type: 'text/calendar;charset=utf-8' });
-      const objectUrl = URL.createObjectURL(blob);
-      const downloadLink = document.createElement('a');
-
-      downloadLink.href = objectUrl;
-      downloadLink.download = calendarLink.getAttribute('download') || 'xrway26.ics';
-      document.body.appendChild(downloadLink);
-      downloadLink.click();
-      downloadLink.remove();
-
-      window.setTimeout(() => URL.revokeObjectURL(objectUrl), 1000);
-    } catch (error) {
-      window.location.href = calendarLink.getAttribute('href');
-    }
-  });
-}
