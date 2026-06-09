@@ -2,13 +2,12 @@
 .gitignore
 .nojekyll
 404.html
+MANIFEST.txt
 README.md
 assets/calendar/xrway26.ics
 assets/css/styles.css
 assets/docs/CFP.md
-assets/docs/image-guidelines.md
 assets/images/favicon.svg
-assets/images/hero.jpg
 assets/images/og-image.jpg
 assets/images/organizers/ahmed-elsharkawy.jpg
 assets/images/organizers/ammar-al-taie.jpg

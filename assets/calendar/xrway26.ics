@@ -2,13 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//XRWay26//Workshop Calendar//EN
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
 BEGIN:VEVENT
-UID:xrway26-workshop@ismar2026
-DTSTAMP:20260608T000000Z
+UID:xrway26-workshop-tentative@xrontheway.github.io
+DTSTAMP:20260609T000000Z
 DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:XRWay’26 Workshop at IEEE ISMAR 2026
-DESCRIPTION:The 1st International Workshop on XR on the Way: XR for Walking, Driving, and Everyday Mobility.
+DTEND;VALUE=DATE:20261007
+SUMMARY:XRWay'26 Workshop at IEEE ISMAR 2026
+DESCRIPTION:Tentative date window: October 5 or 6, 2026. The 1st Internat
+ ional Workshop on XR on the Way: XR for Walking, Driving, and Everyday Mo
+ bility.
 LOCATION:Bari, Italy
 END:VEVENT
 END:VCALENDAR

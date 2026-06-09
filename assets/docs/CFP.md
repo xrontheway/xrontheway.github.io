@@ -2,8 +2,7 @@
 
 **The 1st International Workshop on XR on the Way (XRWay’26)**  
 **XR for Walking, Driving, and Everyday Mobility**  
-Held in conjunction with **IEEE ISMAR 2026**, Bari, Italy, **October 5, 2026**.  
-Format: **Hybrid**.
+Held in conjunction with **IEEE ISMAR 2026**, Bari, Italy, **October 5 or 6, 2026**.
 
 ## Overview
 
@@ -28,7 +27,7 @@ Topics include, but are not limited to:
 
 ### Regular Research Papers
 
-Up to **8 pages excluding references**. Suitable for mature research contributions, evaluated systems, empirical studies, technical methods, datasets, benchmarks, or design frameworks.
+Up to **6 pages excluding references**. Suitable for mature research contributions, evaluated systems, empirical studies, technical methods, datasets, benchmarks, or design frameworks.
 
 ### Position & Work-in-Progress Papers
 
@@ -38,13 +37,15 @@ Up to **4 pages excluding references**. Suitable for provocative positions, earl
 
 Up to **4 pages excluding references**. Suitable for field deployments, design cases, prototypes, toolkits, or lightweight AR/MR demos suitable for the workshop’s walk-and-talk session.
 
-## Formatting and review
+## Formatting, review, and publication
 
-Submissions should use the IEEE Computer Society VGTC conference format: <https://tc.computer.org/vgtc/publications/conference/>.
+Submissions must be strictly formatted according to the IEEE Computer Society VGTC conference style, as described in the [Formatting Guidelines for VGTC Conference Style Papers](https://tc.computer.org/vgtc/publications/conference/). Use the [vgtc_conference_latex](https://github.com/ieeevgtc/vgtc_conference_latex/releases) or [vgtc_conference_word](https://github.com/ieeevgtc/vgtc_conference_word/releases/tag/2024.02.14) template for your submission. Do not use the “TVCG journal track template” for TVCG Special Issues. Papers using the wrong style or template may be desk-rejected.
 
-All submissions will undergo single-blind peer review. Accepted papers are planned for publication in the ISMAR 2026 Adjunct Proceedings and IEEE Xplore. At least one author of each accepted paper must register and present on-site at ISMAR 2026 in Bari, Italy.
+The workshop’s papers will be published in ISMAR 2026 Adjunct proceedings and IEEE Xplore. Accepted papers should be formatted using the IEEE Computer Society VGTC conference format and will be subject to the registration and publication processing policy of ISMAR 2026.
 
-Submissions will be handled via EasyChair. The submission link will be added upon workshop acceptance.
+All submissions will undergo single-blind peer review. At least one author of each accepted paper must register and present on-site at ISMAR 2026 in Bari, Italy.
+
+Submissions will be handled via EasyChair. The EasyChair submission link will be added.
 
 ## Important dates
 
@@ -52,8 +53,8 @@ Submissions will be handled via EasyChair. The submission link will be added upo
 - Paper submission deadline: **July 03, 2026**
 - Notification of acceptance: **July 17, 2026**
 - Camera-ready due: **July 31, 2026**
-- Workshop date: **October 5, 2026**
+- Workshop date: **October 5 or 6, 2026**
 
 ## Contact
 
-For questions about the workshop, please contact the organizing team. A dedicated workshop email can be added before launch.
+For workshop inquiries, contact **xrontheway@gmail.com**.
